@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 # Galleria
 Image gallery
 =======
-<<<<<<< HEAD
-# Galleria
-Image gallery
+
 =======
 # React + Vite
 
