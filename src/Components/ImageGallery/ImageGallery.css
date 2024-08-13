@@ -1,0 +1,12 @@
+.imageGallery-wrapper{
+    display: flex;
+    flex-direction: column;     
+    align-items: center;
+}
+
+.gallery-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
